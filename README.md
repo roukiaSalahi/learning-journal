@@ -7,4 +7,4 @@
  - *Dont give up and solve your problems by trying new strategies.*
  ![image](https://static.wixstatic.com/media/15874d_a67cc36e3a074a70bdd7627d0d925762~mv2.png/v1/fit/w_788,h_494,al_c,q_80/file.png)
 
-
+[about-me](https://roukiasalahi.github.io/learning-journal/aboutme)
