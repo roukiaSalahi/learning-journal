@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## welcome to 102d9
 
 You can use the [editor on GitHub](https://github.com/roukiaSalahi/learning-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
