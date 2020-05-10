@@ -1,2 +1,2 @@
 # Second-level Header Text
- Some verbiage with *very exciting* language in it
+ Some verbiage with _very exciting_ language in it
