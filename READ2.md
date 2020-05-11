@@ -1,6 +1,6 @@
 # Developer Tools:
  
-## Text Editor: 
+## Text Editor: <a name="subparagraph1"></a>
 *its a computer program that allows you to create and edit files that contain plain text. it provides maximum flexibility to create about anything*
 ### Word processor: 
 - Microsoftword
@@ -15,7 +15,7 @@ coding editors give you the ability to do everything in a single editor not like
 
 
 
-## The Terminal :
+## The Terminal : <a name="subparagraph2"></a>
 *A text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 you can find, move, copy and open files you can also change directory, make a new folder and more!*
 
