@@ -7,6 +7,9 @@
 3. [The Terminal](https://roukiasalahi.github.io/learning-journal/TheTerminal)
 
 ##  Introduction <a name="introduction"></a>
-Developer Tools 
+
+*My name is Roukia, I'm 22.
+I'm Syrian currently living in jordan.
+I studied civil engineering in Applied Science University and now I am taking courses in software development.*
 
 
