@@ -4,7 +4,7 @@
 2. [Text Editor](https://roukiasalahi.github.io/learning-journal/TextEditor)
     1. [Word processor](#subparagraph1)
     2. [Code editor](#subparagraph2)
-3. [The Terminal](#paragraph2)
+3. [The Terminal](https://roukiasalahi.github.io/learning-journal/TheTerminal)
 
 ##  Introduction <a name="introduction"></a>
 Developer Tools 
