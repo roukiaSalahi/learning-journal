@@ -1,10 +1,10 @@
 # welcome to 102d9
 # Table of contents
 1. [Introduction](#introduction)
-2. [READ2](#paragraph1)
+2. [READ2](https://roukiasalahi.github.io/learning-journal/READ2)
     1. [Text Editor ](#subparagraph1)
     2. [The Terminal](#subparagraph2)
-3. [READ3](#paragraph2)
+3. [READ3](https://roukiasalahi.github.io/learning-journal/READ3)
 
 ##  Introduction <a name="introduction"></a>
 
