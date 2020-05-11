@@ -7,6 +7,6 @@
 3. [The Terminal](#paragraph2)
 
 ##  Introduction <a name="introduction"></a>
-Developer Tools
+Developer Tools 
 
 
