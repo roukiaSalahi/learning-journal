@@ -21,7 +21,7 @@ $ git status
 ```
 $ git add filename
 ```
- ### Tracking all Files
+### Tracking all Files
 ```
 $ git add .
 ```
