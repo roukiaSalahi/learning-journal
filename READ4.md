@@ -27,16 +27,16 @@ begins and ends, and so on.
    ## HTML5 LayouT eLements:
    *HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them.*
 
-   - <header>
-   - <footer>
-   - <nav>
-   - <article>
-   - <section>
-   - <aside>
-   - <div>
-   - <figure> 
-   - <figcaption>
-   - <hgroup> h1,h2...h6
+   - header
+   - footer
+   - nav
+   - article
+   - section
+   - aside
+   - div
+   - figure
+   - figcaption
+   - hgroup h1,h2...h6
 
    ***Note the diffrences between article and section, so if you remove the article from your page it will still got the a full meaning.***
 
