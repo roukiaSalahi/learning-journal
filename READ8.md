@@ -1,9 +1,9 @@
 # Comparison Operators :
 ## Evaluation conditions :
- == | is equal to | compares two values to see if they are the same 
- != | isn't equal to | compares two values to see if they are not the same
- === | strict equal to | to check both data type and value are the same
- !== | strict not equal to | to check both data type and value are not the same
+ == :is equal to, compares two values to see if they are the same 
+ != : isn't equal to, compares two values to see if they are not the same
+ === : strict equal to,  to check both data type and value are the same
+ !== : strict not equal to, to check both data type and value are not the same
 
 
 ## Logical Operators :
