@@ -7,9 +7,10 @@
 
 
 ## Logical Operators :
-- and && : test more than one condition, it will alwayes return false but in the case of both of the conditions are true it will return true 
-- or || : test more than one condition, it will alwayes return true but in the case of both of the conditions are false it will return false
--  not ! : it takes a single boolean value and inverts it 
+
+- and (&&) : test more than one condition, it will alwayes return false but in the case of both of the conditions are true it will return true 
+- or (||) : test more than one condition, it will alwayes return true but in the case of both of the conditions are false it will return false
+-  not (!) : it takes a single boolean value and inverts it 
 
 ## Loops :
 it check a condition if it returns true a code block will run and the condition will be checked until it returns false.
